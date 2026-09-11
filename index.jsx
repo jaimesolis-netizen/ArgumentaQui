@@ -335,9 +335,9 @@ const EXPERIMENTS = [
 // CONFIG — reemplaza los tres valores con los tuyos
 // ═══════════════════════════════════════════════════════
 const cfg = {
-  workerUrl: "https://TU_WORKER.TU_USUARIO.workers.dev",
-  fbProject: "TU_FIREBASE_PROJECT_ID",
-  fbKey:     "TU_FIREBASE_WEB_API_KEY",
+  workerUrl: "https://argumentaqui.jaime-solis.workers.dev",
+  fbProject: "arguia-d8097",
+  fbKey:     "AIzaSyAzR0XcOYioyYUW68LSmcPNOCOtkevJXG8",
 };
 
 // ═══════════════════════════════════════════════════════
